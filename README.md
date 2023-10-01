@@ -11,7 +11,7 @@ To execute this test, follow the steps below:
 1. **Clone the Repository**: Clone this repository to your local environment using the following command:
 
     ```bash
-    git clone https://github.com/your-username/cloudwalk_test.git
+    git clone https://github.com/laurameireles23/cloudwalk_test.git
     ```
 
 2. **Navigate to the Project Directory**: Use the `cd` command to enter the project folder:
