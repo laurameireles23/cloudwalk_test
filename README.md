@@ -60,6 +60,8 @@ Rating of players:
 4. Isgalamido: -8 points
 ```
 
+**Tip:** For better viewing, use a website to format json. Suggestion: https://jsonviewer.stack.hu/
+
 ## Project Structure
 
 The project structure is quite simple:
